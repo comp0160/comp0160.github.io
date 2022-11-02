@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* override emboldening in theme and make colour constrast stronger */
+a:hover, a:focus {
+  font-weight: inherit;
+  color: #804;
+}
