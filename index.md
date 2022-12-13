@@ -9,7 +9,7 @@ Term 2 (January-March 2023).
 ## Practical Lab Sessions
 
 * [Week 1: Psychophysics](lab1.html)
-* Week 2: Colour & Contrast
+* [Week 2: Colour & Contrast](lab2.html)
 * [Week 3: Auditory Perception](lab3.html)
 * Week 4: TBD
 
