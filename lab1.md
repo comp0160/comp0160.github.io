@@ -19,8 +19,9 @@ These are for testing purposes only and will be removed before the module begins
 
 * [Visual detection threshold by method of limits](experiments/limits/?home=/lab1.html) [[short](experiments/limits/?home=/lab1.html&quick)]
 * [Visual detection threshold by method of constant stimuli](experiments/const_stim/?home=/lab1.html) [[short](experiments/const_stim/?home=/lab1.html&quick)]
-* (TODO) [Visual detection threshold by method of adjustment](experiments/adjustment/?home=/lab1.html) [[short](experiments/adjustment/?home=/lab1.html&quick)]
 * [Relative brightness estimation](experiments/relative/?home=/lab1.html) [[short](experiments/relative/?home=/lab1.html&quick)]
+* [Brightness comparison as two alternative forced choice](experiments/tafc/?home=/lab1.html) [[short](experiments/tafc/?home=/lab1.html&quick)]
+* [Brightness comparison as two interval forced choice](experiments/tifc/?home=/lab1.html) [[short](experiments/tifc/?home=/lab1.html&quick)]
 * (TODO) [Reaction time](experiments/reaction/?home=/lab1.html) [[short](experiments/reaction/?home=/lab1.html&quick)]
 
 ## Discussion Points
