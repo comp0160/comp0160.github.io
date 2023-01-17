@@ -13,8 +13,7 @@ The pages below contain information and links to online experiments for the Wedn
 morning practicals.
 
 * Week 1 (11 Jan 2023): [Psychophysics](lab1.html)
-
-<!-- * [Week 2: Colour & Contrast](lab2.html) -->
+* Week 2 (18 Jan 2023): [Colour & Contrast](lab2.html)
 <!-- * [Week 3: Auditory Perception](lab3.html) -->
 <!-- * Week 4: TBD -->
 
