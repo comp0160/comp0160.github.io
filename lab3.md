@@ -28,11 +28,17 @@ better thought of as demonstrations.
 
 ## Demos
 
+In between experiments, we'll probably have a look* at
+some famous auditory illusions and effects.
+
 * Shepard tones & scales
 * Risset's accelerando
 * Deutsch scale illusion
 * McGurk effect
-* Franssen effect?
+* Franssen effect
+
+<small>* To use an inappropriate verb. Recall the ubiquity of
+visual language discussed last week!</small>
 
 
 ## Discussion Points
