@@ -8,17 +8,22 @@ layout: default
 
 ## Summary
 
-* Choose a small component of the functionality of a cloud-based media editing app
-* Analyse the interface requirements for this functionality
-* Explain any perceptual issues that affect accessibility
-* Propose and simulate a UX/UI for the functionality
-* Explain how your design decisions account for perception and accessibility
-* Test and evaluate your design
-* Discuss the effectiveness of your choices and suggest improvements
+Your task is to **design part of the interface for a complex application**. You are not expected to implement the app or to create polished graphics for it. You will instead submit a **written report** describing your design and critically assessing it.
+
+The steps of this task are outlined below:
+
+* Choose a small component of the functionality of a cloud-based media editing app.
+* Analyse the interface requirements for this functionality.
+* Explain any perceptual issues that affect accessibility.
+* Propose and simulate an interface for the functionality.
+* Explain how your design decisions account for perception and accessibility.
+* Test and evaluate the usability of your design.
+* Discuss the effectiveness of your choices and suggest improvements.
+
 
 ## Background
 
-Media creation and editing software is typically complex and perceptually demanding, with detailed user interfaces densely packed with information and lots of fiddly controls. Your new startup, **Fictitious Studios**, aims to make rich media editing available to everyone via its suite of cloud-based apps, **Fictitious CS**. Among the domains targeted by this suite will be:
+Media creation and editing software is typically complex and perceptually demanding, with detailed user interfaces densely packed with information and lots of fiddly controls. Your new startup, **Fictitious Studios**, aims to make rich media editing available to everyone via its suite of cloud-based apps, known collectively as **Fictitious CS**. Among the domains targeted by this suite will be:
 
 * podcast production (cf. [Audition](https://www.adobe.com/uk/products/audition.html), [Audacity](https://www.audacityteam.org/))
 * video editing (cf. [Final Cut Pro](https://www.apple.com/uk/final-cut-pro/), [Premiere](https://www.adobe.com/uk/products/premiere.html))
@@ -28,7 +33,9 @@ Media creation and editing software is typically complex and perceptually demand
 * vector graphics (cf. [Illustrator](https://www.adobe.com/uk/products/illustrator.html), [Inkscape](https://inkscape.org/))
 * presentations (cf. [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint/), [Keynote](https://www.apple.com/uk/keynote/))
 
-**You** are the product lead responsible for the UX/UI of one of these apps. Choose a domain with which you are familiar and focus on a **small, relatively self-contained piece of functionality**. (If you are not familiar with any of these you may choose something not on the list but be sure to define it clearly.) The scope and level of detail are up to you, but bear in mind the limited size of the report.
+(The products mentioned are intended only as examples. You do not need to model your app on any of them.)
+
+**You** are the product lead responsible for the design of one of these apps. Choose a topic with which you are familiar and focus on a **small, relatively self-contained piece of functionality**. (If you are not familiar with any of these you may choose something not on the list but be sure to define it clearly.) The scope and level of detail are up to you, but bear in mind the limited size of the report.
 
 
 ## Constraints
@@ -47,7 +54,7 @@ You may use whatever means you prefer to lay out and trial your design. If you a
 
 ## Testing
 
-You should attempt to test your design on users other than yourself. Clearly the degree to which you can do this is limited — you do not have the time or resources for large scale testing, and your design will probably be implemented in only the most rudimentary fashion. Your testing paradigm will most likely be something along the lines of [Hallway](https://en.wikipedia.org/wiki/Usability_testing#Hallway_testing) or [Guerrilla Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/). But however constrained and *ad hoc* it may have to be, try to approach it **purposefully**. What are you trying to find out? How will you do so?
+You should attempt to get feedback on your design from users other than yourself. Clearly the degree to which you can do this is limited — you do not have the time or resources for large scale testing, and your design will probably be implemented in only the most rudimentary fashion. Your testing paradigm will most likely be something along the lines of [Hallway](https://en.wikipedia.org/wiki/Usability_testing#Hallway_testing) or [Guerrilla Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/). But however constrained and *ad hoc* it may have to be, try to approach it **purposefully**. What are you trying to find out? How will you do so?
 
 You may collaborate with other COMP0160 students to test out each other's designs, but if so ensure you are each working on unrelated pieces of functionality to avoid the risk of inadvertent plagarism.
 
