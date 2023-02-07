@@ -56,7 +56,7 @@ You may use whatever means you prefer to lay out and trial your design. If you a
 
 You should attempt to get feedback on your design from users other than yourself. Clearly the degree to which you can do this is limited — you do not have the time or resources for large scale testing, and your design will probably be implemented in only the most rudimentary fashion. Your testing paradigm will most likely be something along the lines of [Hallway](https://en.wikipedia.org/wiki/Usability_testing#Hallway_testing) or [Guerrilla Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/). But however constrained and *ad hoc* it may have to be, try to approach it **purposefully**. What are you trying to find out? How will you do so?
 
-You may collaborate with other COMP0160 students to test out each other's designs, but if so ensure you are each working on unrelated pieces of functionality to avoid the risk of inadvertent plagarism.
+You may collaborate with other COMP0160 students to test out each other's designs, but if so ensure you are each working on unrelated pieces of functionality to avoid the risk of inadvertent plagiarism.
 
 
 ## Report Format
