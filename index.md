@@ -16,3 +16,10 @@ morning practicals.
 * Week 2 (18 Jan 2023): [Colour & Contrast](lab2.html)
 * Week 3 (25 Jan 2023): [Auditory Perception](lab3.html)
 * Week 3 (01 Feb 2023): [Data & Tactility](lab4.html)
+
+## Coursework
+
+There is one assessed coursework component, worth 30% of the overall module marks.
+Details of this assignment can be found at the link below.
+
+* [Individual Coursework Brief](coursework.html)
