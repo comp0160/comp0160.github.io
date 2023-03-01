@@ -15,7 +15,13 @@ morning practicals.
 * Week 1 (11 Jan 2023): [Psychophysics](lab1.html)
 * Week 2 (18 Jan 2023): [Colour & Contrast](lab2.html)
 * Week 3 (25 Jan 2023): [Auditory Perception](lab3.html)
-* Week 3 (01 Feb 2023): [Data & Tactility](lab4.html)
+* Week 4 (01 Feb 2023): [Data & Tactility](lab4.html)
+
+The base Unity package for presenting C/D-ratios in labs 5 onward can be downloaded
+[here](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip).
+
+Additional Unity code developed in later sessions may be found in the
+[Unity](https://github.com/comp0160/unity) repository.
 
 ## Coursework
 
