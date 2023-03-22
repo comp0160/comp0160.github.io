@@ -17,10 +17,20 @@ morning practicals.
 * Week 3 (25 Jan 2023): [Auditory Perception](lab3.html)
 * Week 4 (01 Feb 2023): [Data & Tactility](lab4.html)
 
-The base Unity package for presenting C/D-ratios in labs 5 onward can be downloaded
-[here](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip).
+Briefings for weeks 5-10 are on [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30035&section=17#tabs-tree-start).
+These make use of [Unity](https://unity.com/download), please install this before Lab 5
+if you have not done so already. The suggested Unity version is 2019.4.34f1
+[[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
+[Mac](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.dmg)],
+but in practice more recent versions also seem to work fine.
 
-Additional Unity code developed in later sessions may be found in the
+The custom Unity packages for these labs can be downloaded from the links below:
+
+* [Weeks 5-7](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip)
+* [Week 8](https://github.com/davidswapp/CD_ratios/raw/main/lab8.unitypackage)
+* [Weeks 9-10](https://github.com/davidswapp/CD_ratios/raw/main/lab9.unitypackage)
+
+Some additional Unity code developed in later sessions may be found in the
 [Unity](https://github.com/comp0160/unity) repository.
 
 ## Coursework
