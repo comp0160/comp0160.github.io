@@ -21,7 +21,11 @@ concepts discussed in the visual perception lecture.
 * [Estimating contrast ratios](experiments/contrast/?home=/lab2.html)
 * [Assessing legibility of colour combinations](experiments/legibility/?home=/lab2.html)
 * [Stroop test](experiments/stroop/?home=/lab2.html)
-* [Selective attention test](https://youtube.com/watch?v=vJG698U2Mvo)
+
+We'll run the following test collectively on the main screen,
+rather than in your browser.
+
+* Selective attention test
 
 
 ## Colour Tools for UI & Visualisation
