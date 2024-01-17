@@ -13,9 +13,9 @@ The pages below contain information and links to online experiments for the Thur
 morning practicals. (Links will be added weekly as the term progresses.)
 
 * Week 1 (11 Jan 2024): [Psychophysics](lab1.html)
+* Week 2 (18 Jan 2024): [Colour & Contrast](lab2.html)
 
 <!--
-* Week 2 (18 Jan 2024): [Colour & Contrast](lab2.html)
 * Week 3 (25 Jan 2024): [Auditory Perception](lab3.html)
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 

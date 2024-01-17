@@ -27,6 +27,11 @@ rather than in your browser.
 
 * Selective attention test
 
+In between experiments we'll also look at a few optical illusions,
+which tend to pick at the rough edges of some of the perceptual
+hacks the brain uses to construct our otherwise apparently seamless
+visual reality.
+
 
 ## Colour Tools for UI & Visualisation
 
