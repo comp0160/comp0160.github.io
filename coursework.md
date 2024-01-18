@@ -3,7 +3,7 @@ title: "COMP0160 Coursework Assignment"
 layout: default
 ---
 
-# COMP0160 2022/23 Individual Coursework Assignment
+# COMP0160 2023/24 Individual Coursework Assignment
 
 
 ## Summary
@@ -35,14 +35,14 @@ Media creation and editing software is typically complex and perceptually demand
 
 (The products mentioned are intended only as examples. You do not need to model your app on any of them.)
 
-**You** are the product lead responsible for the design of one of these apps. Choose a topic with which you are familiar and focus on a **small, relatively self-contained piece of functionality**. (If you are not familiar with any of these you may choose something not on the list but be sure to define it clearly.) The scope and level of detail are up to you, but bear in mind the limited size of the report.
+**You** are the product lead responsible for the design of one of these apps. Choose a topic with which you are familiar and focus on a **small, relatively self-contained piece of functionality**. (If you are not familiar with any of these you are welcome to choose something not on the list but be sure to define it clearly.) The scope and level of detail are up to you, but bear in mind the limited size of the report.
 
 
 ## Constraints
 
 Your app should be designed for deployment to at least one of: web browser, mobile device, desktop computer. You may propose a unified design that works on multiple platforms if you wish.
 
-The design should be implementable with only widely-available mainstream technology as of early 2023. You may posit the use of assistive devices such as screen readers and basic voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
+The design should be implementable with only widely-available mainstream technology as of early 2024. You may posit the use of assistive devices such as screen readers and basic voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
 
 
 ## Design
@@ -61,9 +61,11 @@ You may collaborate with other COMP0160 students to test out each other's design
 
 ## Report Format
 
-Your submission must be a single document in PDF, RTF or MS Word (`.docx`) format. It should consist of **no more than 8 sides of A4**, including all figures, tables and references. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
+Your submission must be **a single document in PDF format**. It should consist of **no more than 8 sides of A4**, including all figures, tables and references. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
 
-You may assume your readership is reasonably well informed about software development, user interface idioms and accessibility, but they are not experts in your target domain or chosen functionality. You will need to explain these clearly in terms accessible to an educated layperson. Avoid obscure terminology or jargon.
+**Be succinct and readable. If your report exceeds the maximum length, only the first 8 pages will be marked. If it is illegible you will lose marks. Do not waste space on title pages or appendices.**
+
+You may assume your readership is reasonably well informed about software development, user interface idioms and accessibility, but they are not experts in your target domain or chosen functionality. You will need to explain these clearly in terms that will be understood by an educated layperson. Avoid obscure terminology or jargon.
 
 A suggested report structure is given below. This is not a strict prescription â€” you may organise the material differently if you think doing so presents your design more clearly. However, you should aim to cover all these bases and bear in mind the [Marking Criteria](#marking) below.
 
@@ -74,7 +76,7 @@ A suggested report structure is given below. This is not a strict prescription â
 5. **Critical Analysis**: Review your proposed design in the light of the testing results. What are its strengths and weaknesses? How well does it achieve your requirements? How well does it meet the expectations of your audience?
 6. **Conclusion & Future Work**: What have you learned? Suggest possible improvements for future iterations of this process.
 
-**IMPORTANT: Submissions are anonymised, please do not include your name in your report**.
+**IMPORTANT: Submissions are anonymised. DO NOT include your name anywhere in the report, including the filename.**
 
 
 ## <a name="marking"></a>Marking Criteria
@@ -92,6 +94,6 @@ There is no single correct answer to this task. As indicated earlier, we are mor
 
 ## Submission
 
-Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30035&section=1). The submission link will be available from 27 Feb 2023. Deadline for submissions is 27 March 2023 at 1600 BST.
+Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682). The submission link will be available from 29 Jan 2024. Deadline for submissions is 18 March 2024 at 1600 BST.
 
 
