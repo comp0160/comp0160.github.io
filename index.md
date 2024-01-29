@@ -36,11 +36,9 @@ Some additional Unity code developed in later sessions may be found in the
 [Unity](https://github.com/comp0160/unity) repository.
 -->
 
-<!--
 ## Coursework
 
 There is one assessed coursework component, worth 30% of the overall module marks.
 Details of this assignment can be found at the link below.
 
 * [Individual Coursework Brief](coursework.html)
--->
