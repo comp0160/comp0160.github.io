@@ -15,10 +15,9 @@ morning practicals. (Links will be added weekly as the term progresses.)
 * Week 1 (11 Jan 2024): [Psychophysics](lab1.html)
 * Week 2 (18 Jan 2024): [Colour & Contrast](lab2.html)
 * Week 3 (25 Jan 2024): [Auditory Perception](lab3.html)
-
-<!--
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 
+<!--
 Briefings for weeks 5-10 are on [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30035&section=17#tabs-tree-start).
 These make use of [Unity](https://unity.com/download), please install this before Lab 5
 if you have not done so already. The suggested Unity version is 2019.4.34f1

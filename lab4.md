@@ -17,6 +17,10 @@ You'll need a (free) Google account to use this. You may get a warning about
 the notebook not being written by Google — obviously this is true, but
 you should run it anyway. Don't you trust me?
 
+You can run the notebook as is, but you won't be able to save any changes.
+If you want to do that, you should save a copy of the notebook into
+your own Google Drive and work on that copy instead.
+
 The notebook is coded in Python, so if you're familiar with that you should be
 reasonably at home. If not, read through the notebook anyway — there's
 lots of supporting text, and the code is all written for you, so you
@@ -34,3 +38,11 @@ a discussion about the use of touch perception in UIs.
 * What about in hardware?
 * How does it compare to the use of audio we discussed last week?
 * Can you think of any interesting special cases?
+* If you have any concrete examples, please bring them along!
+
+## Discussion: Coursework
+
+The [individual coursework assignment](coursework.html) was also released this
+week. You are encouraged to read through the brief before this week's practical.
+There will be an opportunity to discuss what is expected of you and how
+you might approach it. If you have questions, this would be a good time to ask.
