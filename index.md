@@ -18,7 +18,7 @@ morning practicals. (Links will be added weekly as the term progresses.)
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 
 For weeks 5-10 we will make use of the [Unity game engine](https://unity.com/download).
-Please install this before Lab 5. The suggested Unity version is 2019.4.34f1
+**Please install this before Lab 5**. The suggested Unity version is 2019.4.34f1
 [[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
 [Mac](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.dmg)],
 but in practice more recent versions also seem to work fine. Do not be intimidated by
