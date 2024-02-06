@@ -9,15 +9,16 @@ For the main body of course materials, please see the
 
 ## Practical Lab Sessions
 
-The pages below contain information and links to online experiments for the Thursday
-morning practicals. (Links will be added weekly as the term progresses.)
+The pages below contain information and links to online experiments for the first
+four weeks of Thursday morning practicals.
 
 * Week 1 (11 Jan 2024): [Psychophysics](lab1.html)
 * Week 2 (18 Jan 2024): [Colour & Contrast](lab2.html)
 * Week 3 (25 Jan 2024): [Auditory Perception](lab3.html)
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 
-Briefings for weeks 5-10 are on [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682#module-4778462).
+Briefings for weeks 5-10 are (or will be) on
+[Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682#module-4778462).
 
 For these sessions we will make use of the [Unity game engine](https://unity.com/download).
 **Please install this before Lab 5**. The suggested Unity version is 2019.4.34f1
