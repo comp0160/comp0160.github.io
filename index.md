@@ -17,7 +17,9 @@ morning practicals. (Links will be added weekly as the term progresses.)
 * Week 3 (25 Jan 2024): [Auditory Perception](lab3.html)
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 
-For weeks 5-10 we will make use of the [Unity game engine](https://unity.com/download).
+Briefings for weeks 5-10 are on [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682#module-4778462).
+
+For these sessions we will make use of the [Unity game engine](https://unity.com/download).
 **Please install this before Lab 5**. The suggested Unity version is 2019.4.34f1
 [[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
 [Mac](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.dmg)],
@@ -25,20 +27,10 @@ but in practice more recent versions also seem to work fine. Do not be intimidat
 Unity's licensing structure -- the free personal version is sufficient, and you do not
 need to install any additional "build support" modules.
 
+The lab content is provided in custom Unity packages, which can be
+[downloaded here](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip). 
+
 <!--
-Briefings for weeks 5-10 are on [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30035&section=17#tabs-tree-start).
-These make use of [Unity](https://unity.com/download), please install this before Lab 5
-if you have not done so already. The suggested Unity version is 2019.4.34f1
-[[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
-[Mac](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.dmg)],
-but in practice more recent versions also seem to work fine.
-
-The custom Unity packages for these labs can be downloaded from the links below:
-
-* [Weeks 5-7](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip)
-* [Week 8](https://github.com/davidswapp/CD_ratios/raw/main/lab8.unitypackage)
-* [Weeks 9-10](https://github.com/davidswapp/CD_ratios/raw/main/lab9.unitypackage)
-
 Some additional Unity code developed in later sessions may be found in the
 [Unity](https://github.com/comp0160/unity) repository.
 -->
