@@ -85,6 +85,7 @@ more creative applications of the technology, such as:
 ## Discussion Points
 
 * How is audio typically used in software interfaces?
+    * [An interesting take on this topic from an app designer](https://www.notboring.software/words/the-sound-of-software)
 * Can you distinguish different *classes* of such audio use?
 * As noted in the experiments, web audio usually requires explicit
   user authorisation. Why?
