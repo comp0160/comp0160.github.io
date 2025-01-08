@@ -9,8 +9,8 @@ For the main body of course materials, please see the
 
 ## Practical Lab Sessions
 
-The pages below contain information and links to online experiments for the first
-four weeks of Thursday morning practicals.
+The pages below contain information and links to online experiments
+and other materials for the Thursday morning practicals.
 
 * Week 1 (16 Jan 2025): [Psychophysics](lab1.html)
 
