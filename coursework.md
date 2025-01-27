@@ -51,7 +51,7 @@ You may propose a unified design that works on multiple platforms if you wish.
 
 The design should be implementable with only widely-available mainstream technology as of early 2025. You may posit the use of assistive devices such as screen readers and voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
 
-We recommend that you do not propose a ChatGPT-style language interface to your app. In most cases this is just an abdication of your responsibility as a designer and will be marked as such. If you insist on doing so, you must carefully explain why this is the right way to provide access to your chosen functionality. Be specific as to what it will do and how.
+We recommend that you do not propose a ChatGPT-style language interface to your app. In most cases this is just an abdication of your responsibility as a designer and will be marked as such. If you insist on doing so, you must carefully explain why this is the right way to provide access to your chosen functionality. **Be specific** as to what it will do and how.
 
 ## Design
 
@@ -69,7 +69,7 @@ You may collaborate with other COMP0160 students to test out each other's design
 
 ## Report Format
 
-Your submission must be **a single document in PDF format**. It should consist of **no more than 6 sides of A4 <u>and</u> no more than 1000 words**, including all figures, tables and references. We recommend that you do not waste space on title pages, contents, lists of figures and tables, appendices, but if you choose to do so they all count towards your total. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
+Your submission must be **a single document in PDF format**. It should consist of **no more than 6 sides of A4 <u>and</u> no more than 1000 words**, including all figures, tables and references. We suggest that you do not waste space on title pages, contents, lists of figures and tables, appendices and other extraneous matter, but if you choose to they all count towards your total. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
 
 **Be succinct and readable. If your report exceeds the maximum length, only the first 6 pages will be marked. If it is illegible or incomprehensible you will lose marks.**
 
@@ -129,6 +129,6 @@ There is no single correct answer to this task. As indicated earlier, we are mor
 
 ## Submission
 
-Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=41697). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=6128061) will be available from 10 Feb 2025. Deadline for submissions is **18 March 2024 at 1600 GMT**.
+Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=41697). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=6128061) will be available from 10 Feb 2025. Deadline for submissions is **18 March 2025 at 1600 GMT**.
 
 
