@@ -22,6 +22,7 @@ better thought of as demonstrations.
 * [Calibration](experiments/calibration/?home=/lab3.html)
 * [Stereo localisation](experiments/stereo/?home=/lab3.html)
 * [Pitch sensitivity](experiments/pitch/?home=/lab3.html)
+* [Detection threshold](experiments/freqlevel/?home=/lab3.html)
 * [Binaural beats](experiments/binaural/?home=/lab3.html)
 * [Haas effect](experiments/haas/?home=/lab3.html)
 
@@ -44,7 +45,7 @@ visual language discussed last week!</small>
 
 ## Binaural Audio
 
-As Ifat discussed on Tuesday, the brain infers a lot of spatial
+As Ifat discussed on Monday, the brain infers a lot of spatial
 information from the patterns of sound detection at each ear.
 *Binaural* techniques exploit this ability to produce a highly
 spatialised audio experience by delivering different sounds to
@@ -65,7 +66,7 @@ more creative applications of the technology, such as:
 
 * [Darkfield](https://www.darkfield.org) started out producing surreal and disturbing
   audio experiences physically located inside shipping containers, before extending
-  to online delivery. Their [sample](https://www.darkfield.org/sample) gives a
+  to online delivery. Their [trailers](https://www.youtube.com/@darkfield_org) give a
   flavour, while the BBC-commissioned [Deadhouse](https://www.bbc.co.uk/programmes/p09zr1dk)
   provides a bit more substance (and psychological horror — avoid if you don't
   like that sort of thing).
@@ -90,27 +91,3 @@ more creative applications of the technology, such as:
 * As noted in the experiments, web audio usually requires explicit
   user authorisation. Why?
 * How does audio differ from vision in this respect?
-
-
-## Extras: Generating Music with Deep Learning
-
-If you are extremely dedicated and/or bored, you could also have a look at the
-following tutorial sessions on music generation. These are primarily aimed
-at students on the COMP0161 Auditory Computing module — if you are also taking
-that module, maybe defer this to next week, if not you might find them
-interesting as well. They are implemented as Colab notebooks — click the
-"open in Colab" badge to open the corresponding notebook.
-
-(Note: you may receive a warning about the notebooks not being from Google, which
-is of course true — they're from me. Only you can decide whether or not to accept
-that risk.)
-
-The three sessions build on one another, but data is provided so you can run a
-later one without having done its predecessors if you wish.
-
-* **Lab 1: Data** — build a text-encoded dataset of classical piano music
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab1.ipynb)
-* **Lab 2: Learning** — train a small GPT-style model to generate music in a similar style
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab2.ipynb)
-* **Lab 3: Synthesis & Effects** — tweak the instrument sound and apply a variety of audio effects
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab3.ipynb)

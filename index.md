@@ -14,9 +14,9 @@ and other materials for the Thursday morning practicals.
 
 * Week 1 (16 Jan 2025): [Psychophysics](lab1.html)
 * Week 2 (23 Jan 2025): [Colour & Contrast](lab2.html)
+* Week 3 (30 Jan 2025): [Auditory Perception](lab3.html)
 
 <!--
-* Week 3 (25 Jan 2024): [Auditory Perception](lab3.html)
 * Week 4 (01 Feb 2024): [Data & Tactility](lab4.html)
 
 

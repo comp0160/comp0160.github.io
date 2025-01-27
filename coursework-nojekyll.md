@@ -1,9 +1,4 @@
----
-title: "COMP0160 Coursework Assignment"
-layout: default
----
-
-# COMP0160 2024/25 Individual Coursework Assignment
+# COMP0160 2023/24 Individual Coursework Assignment
 
 
 ## Summary
@@ -40,18 +35,10 @@ Media creation and editing software is typically complex and perceptually demand
 
 ## Constraints
 
-Your app should be designed for deployment to **at least one of**:
+Your app should be designed for deployment to at least one of: web browser, mobile device, desktop computer. You may propose a unified design that works on multiple platforms if you wish.
 
-* web browser
-* mobile device
-* desktop computer
-* VR headset
+The design should be implementable with only widely-available mainstream technology as of early 2024. You may posit the use of assistive devices such as screen readers and basic voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
 
-You may propose a unified design that works on multiple platforms if you wish.
-
-The design should be implementable with only widely-available mainstream technology as of early 2025. You may posit the use of assistive devices such as screen readers and voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
-
-We recommend that you do not propose a ChatGPT-style language interface to your app. In most cases this is just an abdication of your responsibility as a designer and will be marked as such. If you insist on doing so, you must carefully explain why this is the right way to provide access to your chosen functionality. Be specific as to what it will do and how.
 
 ## Design
 
@@ -69,17 +56,15 @@ You may collaborate with other COMP0160 students to test out each other's design
 
 ## Report Format
 
-Your submission must be **a single document in PDF format**. It should consist of **no more than 6 sides of A4 <u>and</u> no more than 1000 words**, including all figures, tables and references. We recommend that you do not waste space on title pages, contents, lists of figures and tables, appendices, but if you choose to do so they all count towards your total. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
+Your submission must be **a single document in PDF format**. It should consist of **no more than 8 sides of A4**, including all figures, tables and references. Body text should be no smaller than 12pt, spaced for easy reading. If you have created an online wireframe, prototype or mockup demonstrating your UI you may include a link to it, but your report should be complete and comprehensible without it.
 
-**Be succinct and readable. If your report exceeds the maximum length, only the first 6 pages will be marked. If it is illegible or incomprehensible you will lose marks.**
+**Be succinct and readable. If your report exceeds the maximum length, only the first 8 pages will be marked. If it is illegible you will lose marks. Do not waste space on title pages or appendices.**
 
 You may assume your readership is reasonably well informed about software development, user interface idioms and accessibility, but they are not experts in your target domain or chosen functionality. You will need to explain these clearly in terms that will be understood by an educated layperson. Avoid obscure terminology or jargon.
 
-**IMPORTANT: Your report is a <u>design</u> document. It is <u>not</u> a sales brochure or piece of marketing material. Explain and justify your choices, don't tell us they're great. We are not interested in claims of how revolutionary or groundbreaking your design is. Focus on demonstrating what it does.**
-
 A suggested report structure is given below. This is not a strict prescription â€” you may organise the material differently if you think doing so presents your design more clearly. However, you should aim to cover all these bases and bear in mind the [Marking Criteria](#marking) below.
 
-1. **Introduction**: Outline the application context. What is the purpose of this app? Who is its audience? To what platform(s) will it be deployed?
+1. **Introduction**: Outline the application context. What is the purpose of this app? Who is its audience? To what plaform(s) will it be deployed?
 2. **Requirements**: Define the specific task or piece of functionality you have chosen. What objects or data are being manipulated? What tasks does the user need to be able to perform with them? What constraints does this impose on your interface? What perceptual challenges does it entail?
 3. **Proposed Design**: Show and explain your proposed interface solution. How does it address your identified requirements? What are the thought processes underlying your decisions? How does your choice of platform inform your design?
 4. **Testing & Evaluation**: Explain your testing process. What information have you gained from it? How did your design perform?
@@ -87,31 +72,6 @@ A suggested report structure is given below. This is not a strict prescription â
 6. **Conclusion & Future Work**: What have you learned? Suggest possible improvements for future iterations of this process.
 
 **IMPORTANT: Submissions are anonymised. DO NOT include your name anywhere in the report, including the filename.**
-
-## Use of Generative AI
-
-This coursework falls under [Category 2](https://www.ucl.ac.uk/teaching-learning/generative-ai-hub/using-ai-tools-assessment#%20AI%20tools%20can%20be%20used%20in%20an%20assistive%20role*) of the UCL classification of assignments with respect to Generative AI: you may use AI tools in an assistive capacity, but the substance of the work must be yours.
-
-Specifically, the following uses are allowed:
-
-* Assistance with grammar, spelling and prose style for text originally written by you
-* Simple data analysis, summary statistics, graph plotting
-* Generation of exemplar or placeholder images
-
-The following uses are **not** allowed:
-
-* Writing any significant part of the report from scratch
-* Suggesting functionality
-* Generating interface layouts
-* Identifying usability problems
-* Coming up with arguments to justify design choices
-* Simulating user feedback
-
-For example, if you are designing a photo editing app you could use MidJourney or DALL-E to generate the image being edited, but not to sketch the user interface of the app.
-
-If you are still unclear whether your intended use of GenAI is permitted, [ask](mailto:m.caldwell@ucl.ac.uk?subject=COMP0160 Coursework).
-
-**IMPORTANT: You must provide a statement in your report explicitly documenting all uses of GenAI, specifying the systems and/or models used and what they were used for. This statement counts towards your page and word limits. It is not worth any marks in itself.**
 
 
 ## <a name="marking"></a>Marking Criteria
@@ -129,6 +89,6 @@ There is no single correct answer to this task. As indicated earlier, we are mor
 
 ## Submission
 
-Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=41697). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=6128061) will be available from 10 Feb 2025. Deadline for submissions is **18 March 2024 at 1600 GMT**.
+Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682). The submission link will be available from 29 Jan 2024. Deadline for submissions is 18 March 2024 at 1600 BST.
 
 
