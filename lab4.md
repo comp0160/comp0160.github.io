@@ -23,7 +23,7 @@ your own Google Drive and work on that copy instead.
 
 The notebook is coded in Python, so if you're familiar with that you should be
 reasonably at home. If not, read through the notebook anyway — there's
-lots of supporting text, and the code is all written for you, so you
+lots of supporting text, and the code is all provided for you, so you
 should at least be able to run it and see what it does.
 
 As ever, if you have any problems or questions, don't hesitate to ask.
