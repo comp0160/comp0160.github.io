@@ -16,6 +16,7 @@ and other materials for the Thursday morning practicals.
 * Week 2 (23 Jan 2025): [Colour & Contrast](lab2.html)
 * Week 3 (30 Jan 2025): [Auditory Perception](lab3.html)
 * Week 4 (06 Feb 2025): [Data & Tactility](lab4.html)
+* Week 5 (13 Feb 2025): [Scenes & Flow](lab5.html)
 
 <!--
 Briefings for weeks 5-10 are (or will be) on

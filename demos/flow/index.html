@@ -1,0 +1,67 @@
+<html>
+<head>
+    <title>Optical Flow</title>
+    <style type="text/css">
+    </style>
+    <script type="text/javascript" src="oflow.js"></script>
+    <script type="text/javascript">
+    
+    function fullscreen()
+    {
+        if ( document.documentElement.requestFullscreen )
+        {
+            document.documentElement.requestFullscreen();
+        }
+        else if ( document.documentElement.webkitRequestFullscreen )
+        {
+            document.documentElement.webkitRequestFullscreen();
+        }
+        else if ( document.documentElement.msRequestFullscreen )
+        {
+            document.documentElement.msRequestFullscreen();
+        }
+    }
+    
+    function main()
+    {
+        var zoneSize = 4,
+            videoElement = document.getElementById('videoOut'),
+            videoWidth = videoElement.videoWidth,
+            videoHeight = videoElement.videoHeight;
+            webCamFlow = new oflow.WebCamFlow(videoElement, zoneSize),
+            canvas = document.getElementById('scene'),
+
+            sceneCtx = canvas.getContext('2d'),
+            
+            sceneWidth = canvas.width,
+            sceneHeight = canvas.height;
+        
+        canvas.ondblclick = fullscreen;
+
+        webCamFlow.onCalculated( function (direction) {
+            // render zones
+            sceneCtx.clearRect(0, 0, sceneWidth, sceneHeight);
+            for(var i = 0; i < direction.zones.length; ++i) {
+                var zone = direction.zones[i];
+                sceneCtx.strokeStyle = "#fff";
+                sceneCtx.lineWidth = 5;
+                sceneCtx.beginPath();
+                sceneCtx.moveTo(zone.x * 2,zone.y * 2);
+                sceneCtx.lineTo((zone.x - zone.u) * 2, (zone.y + zone.v) * 2);
+                sceneCtx.stroke();
+            }
+        });
+
+        webCamFlow.startCapture();
+    }
+    </script>
+</head>
+<body onload="main()" style='background-color: black'>
+<center>
+    <div style='float:left; display: none;'>
+        <video id='videoOut' width='640px' height='480px'></video>
+    </div>
+    <canvas id='scene' width='1280px' height='960px'></canvas>
+</center>
+</body>
+</html>

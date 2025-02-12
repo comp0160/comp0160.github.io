@@ -17,7 +17,7 @@ Not all of these are strictly *experiments* — in the sense of collecting
 data — but they will hopefully be useful illustrations of some of the
 concepts discussed in the visual perception lecture.
 
-* [Blind spot demo](blind.html)
+* [Blind spot demo](demos/blind/index.html)
 * [Estimating contrast ratios](experiments/contrast/?home=/lab2.html)
 * [Blue vs Green](https://ismy.blue) (**NB**: external site)
 * [Assessing legibility of colour combinations](experiments/legibility/?home=/lab2.html)

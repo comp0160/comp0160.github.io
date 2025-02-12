@@ -1,0 +1,151 @@
+-- synchronised notes merge into a single stream
+
+d1 $ n "[[c4,e4,g4] ~]*8" # s "superhammond"
+
+hush
+
+-- but maybe not if very distinct in pitch
+
+d1 $ n "[[c3,e7,g7] ~]*8" # s "superhammond"
+
+hush
+
+
+-- sequential notes merge into a single stream, probably
+
+d1 $ n "[c4 e4 g4 ~]*4" # s "superhammond"
+
+hush
+
+-- but maybe not when played fast
+
+d1 $ n "[c4 e4 g4 ~]*8" # s "superhammond"
+
+hush
+
+
+-- slow nearby galloping notes merge into a single stream, almost certainly
+
+d1 $ n "[c4 d4 c4 ~]*2" # s "superhammond"
+
+hush
+
+-- faster nearby galloping notes still merge into a single stream, maybe
+
+d1 $ n "[c4 d4 c4 ~]*4" # s "superhammond"
+
+hush
+
+-- faster still and they segregate into two, probably
+
+d1 $ n "[c4 d4 c4 ~]*6" # s "superhammond"
+
+hush
+
+-- further apart are more likely to segregate
+
+d1 $ n "[c4 g4 c4 ~]*4" # s "superhammond"
+
+hush
+
+-- far apart and fast almost certainly segregate
+
+d1 $ n "[c4 g6 c4 ~]*8" # s "superhammond"
+
+hush
+
+
+-- slow nearby galloping notes with different timbres probably merge
+
+do
+  resetCycles
+  d1 $ n "[c4 ~ c4 ~]*1" # s "superhammond"
+  d2 $ n "[~ d4 ~ ~]*1" # s "superpiano"
+
+hush
+
+-- faster almost certainly segregate
+
+do
+  resetCycles
+  d1 $ n "[c4 ~ c4 ~]*6" # s "superhammond"
+  d2 $ n "[~ d4 ~ ~]*6" # s "superpiano"
+
+hush
+
+-- these are synced - do these segregate into distinct streams based on timbre?
+
+do
+  d1 $ n "[e4 ~]*8" # s "superzow"
+  d2 $ n "[c4 ~]*8" # s "superhammond"
+
+hush
+
+-- same but with different rhythms?
+
+do
+  d1 $ n "[e4 ~]*3" # s "superzow"
+  d2 $ n "[c4 ~]*8" # s "superhammond"
+
+hush
+
+-- combining all the above - unsynced, far apart, different timbres
+-- we should get well separated streams
+
+do
+  d1 $ n "[e2 ~ e2 ~]*5" # s "superzow"
+  d2 $ n "[~ c6 ~ ~]*7" # s "superpiano"
+  d3 $ n "[~ ~ g4]*4" # s "superhammond"
+
+hush
+
+
+-- so far each stream has mostly maintained the same note
+-- how about if they go up and down?
+
+-- individually we hear the fully cycle, but when combined they "bounce"
+
+d1 $ n "c4 d4 e4 f4 g4 a4 b4 c5 b4 a4 g4 f4 e4 d4" # s "superpiano" # pan 0.5
+
+d2 $ n "c5 b4 a4 g4 f4 e4 d4 c4 d4 e4 f4 g4 a4 b4" # s "superpiano" # pan 0.5
+
+hush
+
+-- shift the pitches further apart to segregate the streams
+
+d1 $ n "c5 d5 e5 f5 g5 a5 b5 c6 b5 a5 g5 f5 e5 d5" # s "superpiano" # pan 0.5
+
+d2 $ n "c4 b3 a3 g3 f3 e3 d3 c3 d3 e3 f3 g3 a3 b3" # s "superpiano" # pan 0.5
+
+hush
+
+-- ok, how about if they are rhythmically distinct?
+
+d1 $ n "c5 b4 a4 g4 f4 e4 d4 c4 d4 e4 f4 g4 a4 b4" # s "superpiano" # pan 0.5
+
+d2 $ n "e4 d4 e4 f4 g4 a4 b4 c5 b4 a4 g4 f4" # s "superpiano" # pan 0.5
+
+d3 $ n "a4 g4 f4 e4 f4 g4 a4 b4 c5 b4" # s "superpiano" # pan 0.5
+
+hush
+
+-- ok, let's set up a scene with very distinct elements
+do
+    resetCycles
+    d1 $ s "~ [sd*3 sd*2]" # pan 0
+    d2 $ n "[g5 c5] [f4 g4] [e5 ~ c5] [f4 ~ g4]" # s "superpiano" # pan 1
+    d3 $ "koy" # shape "0.8" # gain "1"
+
+hush
+
+do
+  let
+    pat = stack [
+        sound "~ [sd*3 sd*2]" # pan 0,
+        note "[g5 c5] [f4 g4] [e5 ~ c5] [f4 ~ g4]" # sound "superpiano" # pan 1,
+        sound "koy" # shape "0.8" # gain "1"
+      ]
+  resetCycles
+  d1 $ seqP [
+    (0, 4, pat)
+    ]
