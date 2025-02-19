@@ -21,7 +21,7 @@ There will also be a further opportunity to ask questions about the
 [coursework](coursework.html).
 
 
-# Demos
+## Demos
 
 There are no individual experiments this week, but some of the demos can
 be run locally in your browser if you wish. (This is strictly optional.)
@@ -59,3 +59,10 @@ but an outline of the controls is provided below.
 Audio streaming examples are generated using
 [Tidal Cycles](https://tidalcycles.org), with
 [this script](code/streams-160.tidal).
+
+
+## Links
+
+* [Interface Hall of Shame](http://hallofshame.gp.co.at/shame.htm).
+  Despite being a quarter century old, many of the terrible UI choices
+  documented here are still being made today.

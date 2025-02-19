@@ -46,3 +46,9 @@ The [individual coursework assignment](coursework.html) was also released this
 week. You are encouraged to read through the brief before this week's practical.
 There will be an opportunity to discuss what is expected of you and how
 you might approach it. If you have questions, this would be a good time to ask.
+
+## Links
+
+* [Shake That Button](https://shakethatbutton.com)
+
+
