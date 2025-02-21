@@ -17,6 +17,7 @@ and other materials for the Thursday morning practicals.
 * Week 3 (30 Jan 2025): [Auditory Perception](lab3.html)
 * Week 4 (06 Feb 2025): [Data & Tactility](lab4.html)
 * Week 5 (13 Feb 2025): [Scenes & Flow](lab5.html)
+* Week 6 (27 Feb 2025): [Unity & Pseudo-Haptics](lab6.html)
 
 <!--
 Briefings for weeks 5-10 are (or will be) on
