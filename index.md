@@ -18,7 +18,8 @@ and other materials for the Thursday morning practicals.
 * Week 4 (06 Feb 2025): [Data & Tactility](lab4.html)
 * Week 5 (13 Feb 2025): [Scenes & Flow](lab5.html)
 * Week 6 (27 Feb 2025): [Unity & Pseudo-Haptics](lab6.html)
-* Week 7 (06 Mar 2025): <s>VR & Cognitive Load</s> (cancelled due to illness)
+* Week 7 (06 Mar 2025): *cancelled due to illness*
+* Week 8 (13 Mar 2025): [VR, Audio & Cognitive Load](lab8.html)
 
 <!--
 Briefings for weeks 5-10 are (or will be) on
