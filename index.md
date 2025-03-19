@@ -20,6 +20,10 @@ and other materials for the Thursday morning practicals.
 * Week 6 (27 Feb 2025): [Unity & Pseudo-Haptics](lab6.html)
 * Week 7 (06 Mar 2025): *cancelled due to illness*
 * Week 8 (13 Mar 2025): [VR, Audio & Cognitive Load](lab8.html)
+* Week 9 (20 Mar 2025): [Experiment Design](lab9.html)
+
+NB: Week 10 (27 Mar 2025) will be an exam preparation and Q&A session. There
+is no briefing for that week.
 
 <!--
 Briefings for weeks 5-10 are (or will be) on
