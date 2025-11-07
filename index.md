@@ -9,21 +9,39 @@ For the main body of course materials, please see the
 
 ## Practical Lab Sessions
 
-The pages below contain information and links to online experiments
-and other materials for the Thursday morning practicals.
+A provisional schedule is shown below — note that
+the topics are only indicative and will almost certainly change
+as we go along. Links to briefings and any other associated
+materials will be added here.
 
-* Week 1 (16 Jan 2025): [Psychophysics](lab1.html)
-* Week 2 (23 Jan 2025): [Colour & Contrast](lab2.html)
-* Week 3 (30 Jan 2025): [Auditory Perception](lab3.html)
-* Week 4 (06 Feb 2025): [Data & Tactility](lab4.html)
-* Week 5 (13 Feb 2025): [Scenes & Flow](lab5.html)
-* Week 6 (27 Feb 2025): [Unity & Pseudo-Haptics](lab6.html)
-* Week 7 (06 Mar 2025): *cancelled due to illness*
-* Week 8 (13 Mar 2025): [VR, Audio & Cognitive Load](lab8.html)
-* Week 9 (20 Mar 2025): [Experiment Design](lab9.html)
+* Lab 1: **Psychophysics** (15 Jan 2026)
+* Lab 2: **Colour & Contrast** (22 Jan 2026)
+* Lab 3: **Auditory Perception** (29 Jan 2026)
+* Lab 4: **Data & Tactility** (05 Feb 2026)
+* Lab 5: **Scenes & Flow** (12 Feb 2026)
+* Lab 6: **Unity & Pseudo-Haptics** (26 Feb 2026)
+* Lab 7: **Pseudo-Haptics in VR** (05 Mar 2026)
+* Lab 8: **VR, Audio & Cognitive Load** (12 Mar 2026)
+* Lab 9: **Experiment Design** (19 Mar 2026)
+* Lab 10: **Exam Preparation and Q&A** (26 Mar 2026)
+
+
+
+<!--
+* Week 1 (15 Jan 2026): [Psychophysics](lab1.html)
+* Week 2 (22 Jan 2026): [Colour & Contrast](lab2.html)
+* Week 3 (29 Jan 2026): [Auditory Perception](lab3.html)
+* Week 4 (05 Feb 2026): [Data & Tactility](lab4.html)
+* Week 5 (12 Feb 2026): [Scenes & Flow](lab5.html)
+* Week 6 (26 Feb 2026): [Unity & Pseudo-Haptics](lab6.html)
+* Week 7 (05 Mar 2026): [Pseudo-Haptics & Audio](lab7.html)
+* Week 8 (12 Mar 2026): [VR, Audio & Cognitive Load](lab8.html)
+* Week 9 (19 Mar 2026): [Experiment Design](lab9.html)
+
 
 NB: Week 10 (27 Mar 2025) will be an exam preparation and Q&A session. There
 is no briefing for that week.
+-->
 
 <!--
 Briefings for weeks 5-10 are (or will be) on
@@ -46,9 +64,11 @@ Some additional Unity code developed in later sessions may be found in the
 [Unity](https://github.com/comp0160/unity) repository.
 -->
 
+<!--
 ## Coursework
 
 There is one assessed coursework component, worth 30% of the overall module marks.
 Details of this assignment can be found at the link below.
 
 * [Individual Coursework Brief](coursework.html)
+-->
