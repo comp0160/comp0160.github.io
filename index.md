@@ -5,7 +5,7 @@ This page hosts some additional course materials for the
 [Perception & Interfaces](https://www.ucl.ac.uk/module-catalogue/modules/perception-and-interfaces-COMP0160)
 module at [UCL Computer Science](https://www.ucl.ac.uk/computer-science/).
 For the main body of course materials, please see the
-[Moodle page](https://moodle.ucl.ac.uk/course/view.php?id=41697).
+[Moodle page](https://moodle.ucl.ac.uk/course/view.php?id=48901).
 
 ## Practical Lab Sessions
 
@@ -44,9 +44,6 @@ is no briefing for that week.
 -->
 
 <!--
-Briefings for weeks 5-10 are (or will be) on
-[Moodle](https://moodle.ucl.ac.uk/course/view.php?id=33682#module-4778462).
-
 For these sessions we will make use of the [Unity game engine](https://unity.com/download).
 **Please install this before Lab 5**. The suggested Unity version is 2019.4.34f1
 [[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
