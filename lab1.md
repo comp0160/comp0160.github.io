@@ -45,6 +45,4 @@ You can use any environment with which you are familiar for this.
 
 If you are not familiar with any data visualisation tools, we recommend installing
 [R](https://cran.ma.imperial.ac.uk) and running through some online tutorials,
-such as [this one from W3 Schools](https://www.w3schools.com/r/default.asp).
-(If there is enough demand, we may demonstrate some simple R plotting in the lab
-session, but this will really only scratch the surface.)
+such as [this one from W3 Schools](https://www.w3schools.com/r/default.asp). Many, many other visualisation tools are available, and we may touch on some of them later in the module.
