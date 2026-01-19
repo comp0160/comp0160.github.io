@@ -15,7 +15,7 @@ as we go along. Links to briefings and any other associated
 materials will be added here.
 
 * Lab 1: [Psychophysics](lab1.html) (15 Jan 2026)
-* Lab 2: **Colour & Contrast** (22 Jan 2026)
+* Lab 2: [Colour & Contrast](lab2.html) (22 Jan 2026)
 * Lab 3: **Auditory Perception** (29 Jan 2026)
 * Lab 4: **Data & Tactility** (05 Feb 2026)
 * Lab 5: **Scenes & Flow** (12 Feb 2026)
