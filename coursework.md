@@ -3,7 +3,7 @@ title: "COMP0160 Coursework Assignment"
 layout: default
 ---
 
-# COMP0160 2024/25 Individual Coursework Assignment
+# COMP0160 2025/26 Individual Coursework Assignment
 
 
 ## Summary
@@ -49,7 +49,7 @@ Your app should be designed for deployment to **at least one of**:
 
 You may propose a unified design that works on multiple platforms if you wish.
 
-The design should be implementable with only widely-available mainstream technology as of early 2025. You may posit the use of assistive devices such as screen readers and voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
+The design should be implementable with only widely-available mainstream technology as of early 2026. You may posit the use of assistive devices such as screen readers and voice recognition, but **not** custom hardware or speculative methods such as direct brain interfaces or general AIs that magically "understand" what you want.
 
 We recommend that you do not propose a ChatGPT-style language interface to your app. In most cases this is just an abdication of your responsibility as a designer and will be marked as such. If you insist on doing so, you must carefully explain why this is the right way to provide access to your chosen functionality. **Be specific** as to what it will do and how.
 
@@ -94,7 +94,7 @@ This coursework falls under [Category 2](https://www.ucl.ac.uk/teaching-learning
 
 Specifically, the following uses are allowed:
 
-* Assistance with grammar, spelling and prose style for text originally written by you
+* Assistance with grammar, spelling and prose style for text originally written by you[^note]
 * Simple data analysis, summary statistics, graph plotting
 * Generation of exemplar or placeholder images
 
@@ -109,9 +109,15 @@ The following uses are **not** allowed:
 
 For example, if you are designing a photo editing app you could use MidJourney or DALL-E to generate the image being edited, but not to sketch the user interface of the app.
 
-If you are still unclear whether your intended use of GenAI is permitted, [ask](mailto:m.caldwell@ucl.ac.uk?subject=COMP0160 Coursework).
+If you are still unclear whether your intended use of GenAI is permitted, <a href="mailto:m.caldwell@ucl.ac.uk?subject=COMP0160 Coursework">ask</a>.
 
 **IMPORTANT: You must provide a statement in your report explicitly documenting all uses of GenAI, specifying the systems and/or models used and what they were used for. This statement counts towards your page and word limits. It is not worth any marks in itself.**
+
+[^note]: While grammar and style assistance is *permitted*, we strongly
+    encourage you *not* to use AI for this. It almost certainly won't
+    be to your benefit. If you insist on doing it anyway, prompt carefully,
+    edit carefully, and **check the word count afterwards**. ChatGPT is
+    insufferably verbose and will never use one word when twenty will do.
 
 
 ## <a name="marking"></a>Marking Criteria
@@ -129,6 +135,6 @@ There is no single correct answer to this task. As indicated earlier, we are mor
 
 ## Submission
 
-Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=41697). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=6128061) will be available from 10 Feb 2025. Deadline for submissions is **18 March 2025 at 1600 GMT**.
+Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=48901). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=7331266) will be available from 20 Feb 2026. Deadline for submissions is **20 March 2026 at 1600 GMT**.
 
 
