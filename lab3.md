@@ -16,7 +16,7 @@ Your data is not otherwise stored or used in any way except for local presentati
 
 ## Experiments
 
-As in week 3, not all of these are strictly *experiments* — some are probably
+As in week 2, not all of these are strictly *experiments* — some are probably
 better thought of as demonstrations.
 
 * [Calibration](experiments/calibration/?home=/lab3.html)
@@ -39,7 +39,7 @@ some famous auditory illusions and effects.
 * McGurk effect
 * Franssen effect
 
-<small>* To use an inappropriate verb. Recall the ubiquity of
+<small>* To use an inappropriate term. Recall the ubiquity of
 visual language discussed last week!</small>
 
 
