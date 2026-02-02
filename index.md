@@ -17,14 +17,13 @@ materials will be added here.
 * Lab 1: [Psychophysics](lab1.html) (15 Jan 2026)
 * Lab 2: [Colour & Contrast](lab2.html) (22 Jan 2026)
 * Lab 3: [Auditory Perception](lab3.html) (29 Jan 2026)
-* Lab 4: **Data & Tactility** (05 Feb 2026)
+* Lab 4: [Data & Tactility](lab4.html) (05 Feb 2026)
 * Lab 5: **Scenes & Flow** (12 Feb 2026)
 * Lab 6: **Unity & Pseudo-Haptics** (26 Feb 2026)
 * Lab 7: **Pseudo-Haptics in VR** (05 Mar 2026)
 * Lab 8: **VR, Audio & Cognitive Load** (12 Mar 2026)
 * Lab 9: **Experiment Design** (19 Mar 2026)
 * Lab 10: **Exam Preparation and Q&A** (26 Mar 2026)
-
 
 
 <!--

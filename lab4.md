@@ -40,12 +40,16 @@ a discussion about the use of touch perception in UIs.
 * Can you think of any interesting special cases?
 * If you have any concrete examples, please bring them along!
 
+<!--
+
 ## Discussion: Coursework
 
 The [individual coursework assignment](coursework.html) was also released this
 week. You are encouraged to read through the brief before this week's practical.
 There will be an opportunity to discuss what is expected of you and how
 you might approach it. If you have questions, this would be a good time to ask.
+
+-->
 
 ## Links
 
