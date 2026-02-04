@@ -135,6 +135,6 @@ There is no single correct answer to this task. As indicated earlier, we are mor
 
 ## Submission
 
-Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=48901). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=7331266) will be available from 20 Feb 2026. Deadline for submissions is **20 March 2026 at 1600 GMT**.
+Submit your report via [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=48901). The [submission page](https://moodle.ucl.ac.uk/mod/assign/view.php?id=7331266) will be available from 5 Feb 2026. Deadline for submissions is **20 March 2026 at 1600 GMT**.
 
 
