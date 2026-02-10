@@ -53,8 +53,11 @@ but an outline of the controls is provided below.
     * **g**: starfield, random x motion
     * **r**: snow storm, mostly random motion
     * **k**: flat plane, constant z motion
+    
+<!--
 * [Optical Flow](demos/flow/index.html) (requires webcam access)
     * **double click**: enter full screen mode
+-->
 
 Audio streaming examples are generated using
 [Tidal Cycles](https://tidalcycles.org), with
