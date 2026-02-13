@@ -32,7 +32,7 @@ As part of the setup process you will need to create an account. Do not be
 intimidated by Unity's licensing structure — the free personal version is all 
 you need. (But if you already have some other license that should be fine too.)
 
-The code packages used in these labs have been produced with the latest LTS version of the Unity editor at the time of writing, which is 6000.0.38f1, but should work on other versions that support the Universal Rendering Pipeline.
+The code packages used in these labs have been produced with the latest LTS version of the Unity editor at the time of writing, which is 6000.3.8f1, but should work on other versions that support the Universal Rendering Pipeline.
 
 Basic guidance on getting familiar with the Unity environment can be found at 
 [learn.unity.com](https://learn.unity.com). However, we will cover the steps 

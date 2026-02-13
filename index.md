@@ -19,7 +19,7 @@ materials will be added here.
 * Lab 3: [Auditory Perception](lab3.html) (29 Jan 2026)
 * Lab 4: [Data & Tactility](lab4.html) (05 Feb 2026)
 * Lab 5: [Scenes & Flow](lab5.html) (12 Feb 2026)
-* Lab 6: **Unity & Pseudo-Haptics** (26 Feb 2026)
+* Lab 6: [Unity & Pseudo-Haptics](lab6.html) (26 Feb 2026)
 * Lab 7: **Pseudo-Haptics in VR** (05 Mar 2026)
 * Lab 8: **VR, Audio & Cognitive Load** (12 Mar 2026)
 * Lab 9: **Experiment Design** (19 Mar 2026)
