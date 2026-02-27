@@ -20,40 +20,11 @@ materials will be added here.
 * Lab 4: [Data & Tactility](lab4.html) (05 Feb 2026)
 * Lab 5: [Scenes & Flow](lab5.html) (12 Feb 2026)
 * Lab 6: [Unity & Pseudo-Haptics](lab6.html) (26 Feb 2026)
-* Lab 7: **Pseudo-Haptics in VR** (05 Mar 2026)
-* Lab 8: **VR, Audio & Cognitive Load** (12 Mar 2026)
+* Lab 7: [Virtual Reality & Cognitive Load](lab7.html) (05 Mar 2026)
+* Lab 8: **Multisensory Processing** (12 Mar 2026)
 * Lab 9: **Experiment Design** (19 Mar 2026)
 * Lab 10: **Exam Preparation and Q&A** (26 Mar 2026)
 
-
-<!--
-* Week 1 (15 Jan 2026): [Psychophysics](lab1.html)
-* Week 2 (22 Jan 2026): [Colour & Contrast](lab2.html)
-* Week 3 (29 Jan 2026): [Auditory Perception](lab3.html)
-* Week 4 (05 Feb 2026): [Data & Tactility](lab4.html)
-* Week 5 (12 Feb 2026): [Scenes & Flow](lab5.html)
-* Week 6 (26 Feb 2026): [Unity & Pseudo-Haptics](lab6.html)
-* Week 7 (05 Mar 2026): [Pseudo-Haptics & Audio](lab7.html)
-* Week 8 (12 Mar 2026): [VR, Audio & Cognitive Load](lab8.html)
-* Week 9 (19 Mar 2026): [Experiment Design](lab9.html)
-
-
-NB: Week 10 (27 Mar 2025) will be an exam preparation and Q&A session. There
-is no briefing for that week.
--->
-
-<!--
-For these sessions we will make use of the [Unity game engine](https://unity.com/download).
-**Please install this before Lab 5**. The suggested Unity version is 2019.4.34f1
-[[Windows](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.exe),
-[Mac](https://download.unity3d.com/download_unity/6a9faed444f2/UnityDownloadAssistant-2019.4.34f1.dmg)],
-but in practice more recent versions also seem to work fine. Do not be intimidated by
-Unity's licensing structure -- the free personal version is sufficient, and you do not
-need to install any additional "build support" modules.
-
-The lab content is provided in custom Unity packages, which can be
-[downloaded here](https://github.com/davidswapp/CD_ratios/archive/refs/heads/main.zip). 
--->
 
 <!--
 Some additional Unity code developed in later sessions may be found in the
