@@ -98,8 +98,7 @@ with a window something like this:
 
 ![Unity editor with newly created 3D project](assets/img/06-unity-empty-project.png)
 
-Download [lab6.zip](unity/lab6.zip) and unzip it. Locate the `lab6.unitypackage`
-file inside the resulting folder.
+Download [lab6.unitypackage](unity/lab6.unitypackage).
 
 Back in Unity, select **Assets → Import Package → Custom Package...** from the
 main menu. Choose `lab6.unitypackage` and click **Open**. This should bring up an import options dialog:
