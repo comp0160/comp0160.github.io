@@ -21,7 +21,7 @@ materials will be added here.
 * Lab 5: [Scenes & Flow](lab5.html) (12 Feb 2026)
 * Lab 6: [Unity & Pseudo-Haptics](lab6.html) (26 Feb 2026)
 * Lab 7: [Virtual Reality & Cognitive Load](lab7.html) (05 Mar 2026)
-* Lab 8: **Multisensory Processing** (12 Mar 2026)
+* Lab 8: [Multisensory Processing](lab8.html) (12 Mar 2026)
 * Lab 9: **Experiment Design** (19 Mar 2026)
 * Lab 10: **Exam Preparation and Q&A** (26 Mar 2026)
 
