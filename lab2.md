@@ -21,6 +21,7 @@ concepts discussed in the visual perception lecture.
 * [Estimating contrast ratios](experiments/contrast/?home=/lab2.html)
 * [Blue vs Green](https://ismy.blue) (**NB**: external site)
 * [Assessing legibility of colour combinations](experiments/legibility/?home=/lab2.html)
+* [Colour memory game](https://dialed.gg) (**NB**: external site)
 * [Stroop test](experiments/stroop/?home=/lab2.html)
 
 We'll run the following test collectively on the main screen,
