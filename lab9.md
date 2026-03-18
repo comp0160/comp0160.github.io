@@ -60,6 +60,7 @@ You saw this approach in action on the VR headsets, for which manual
 experimentation is impractical. This week we will apply similar approaches
 onscreen as well.
 
+<!--
 ### Coding Example
 
 We will begin with an example of setting up and coding such an experiment
@@ -79,12 +80,12 @@ A couple of things to note:
 * You are not required to do any coding yourselves and we will not focus
   on that too much. But even if you have no interest in that, try to
   think about the consequences of the experimental choices being made here.
-
+-->
 
 ### Project Setup
 
-The main screen-based project this week is an automated experiment manager similar
-to that developed above, but with much more configurability.
+The main screen-based project this week is an automated experiment manager, similar
+to those seen on the VR headsets in previous weeks, but with added configurability.
 
 Once again, you will need to set this up in a new Unity project. The process this
 time is a little more fiddly than before, mostly because this project uses
@@ -97,8 +98,7 @@ already done so. Create a new project for this session:
 * Give your project a name and optionally a location.
 * Uncheck the **Connect to Unity Cloud** option.
 
-Download [lab9.zip](unity/lab9.zip) and unzip it. Locate the `lab9.unitypackage`
-file inside the resulting folder.
+Download [`lab9.unitypackage`](unity/lab9.unitypackage) and put it somewhere convenient.
 
 * In the menu bar, choose **Assets → Import Package → Custom Package...**, then navigate
   to and select the `lab9.unitypackage` file
@@ -110,16 +110,16 @@ some controls and text. However, the text display needs some supporting resource
 somewhat exasperatingly, seems to need a couple of run ups before it will work properly.
 
 In the **Hierarchy** window, select **Canvas → Headline**. This should bring up a dialog
-saying that you need to import starter assets for TMPro. Click the button to do so.
+saying that you need to import starter assets for TextMesh Pro. Click the button to
+**Import TMP Essentials**. Once that has finished, close the dialog.
 
-Now, run the scene. You will probably see that there are lot of blank spaces on the
-onscreen form.
+Now, run the scene. You may see an onscreen form with controls and text, but it's also
+possible there are lot of blank spaces. If so, stop the scene and try it again. This
+time the firm should be populated. (If not, ask the tutors for help.)
 
-Stop the scene running. You *should* now see that the form text is populated, at least
-with placeholders like **Experiment Settings [XXXX]**. If you run it at this point
-you should be able to configure an experiment, but it will fail when you try to start it.
-This is because the program can't find the scenes which implement the experiments. To make
-them available, they need to be added to the scene list.
+At this point you should be able to configure an experiment, but it will fail when you
+try to start it. This is because the program can't find the scenes which implement the
+experiments. To make them available, they need to be added to the **scene list**:
 
 * Choose **File → Build Profiles** from the main menu.
 * Select **Scene List** in the sidebar of the Build Profiles window.
@@ -194,7 +194,8 @@ anything at all?
 ## Headset Environments
 
 Apps for exploring the effect of various object parameters and for running
-automated experiments are pre-installed on the Pico 4 VR headsets. You will use these for Tasks 3–5 below.
+automated experiments are pre-installed on the Pico 4 VR headsets.
+You will use these for Tasks 3–5 below.
 
 Before doing so, you may need to configure (or
 reconfigure) the headset's **play boundary**.
@@ -207,7 +208,8 @@ the boundary from the settings screen.
 
 Configure a **Stationary Boundary** to be **Small** and **Sitting**. Ensure
 that the floor level is appropriate for your surroundings — try setting
-this automatically at first, but if in doubt adjust it manually. Then **Enter VR World**.
+this automatically at first, but if in doubt adjust it manually.
+Then **Enter VR World**.
 
 If the dock is not visible in the lower part of your vision, open it by pressing
 the ○ button on one of your controllers. Choose the **Library** option, and then
@@ -269,7 +271,7 @@ is different enough that you'd like to change your hypothesis? The choice is you
 
 **Analyse the data.**
 
-Like last week, results will need to be retrieved from the headsets. We will again,
+Like last week, results will need to be retrieved from the headsets. We will again
 do this after the lab and post the files to Moodle, so you probably won't have the
 chance to do any analysis during the session. But if you finish
 the experiments with a lot of time to spare, ask the tutors — we may be able
